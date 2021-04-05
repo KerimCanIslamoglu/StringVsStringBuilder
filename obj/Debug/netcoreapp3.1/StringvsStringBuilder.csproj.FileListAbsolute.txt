@@ -1,0 +1,13 @@
+C:\Users\kerim\source\repos\StringvsStringBuilder\StringvsStringBuilder\bin\Debug\netcoreapp3.1\StringvsStringBuilder.exe
+C:\Users\kerim\source\repos\StringvsStringBuilder\StringvsStringBuilder\bin\Debug\netcoreapp3.1\StringvsStringBuilder.deps.json
+C:\Users\kerim\source\repos\StringvsStringBuilder\StringvsStringBuilder\bin\Debug\netcoreapp3.1\StringvsStringBuilder.runtimeconfig.json
+C:\Users\kerim\source\repos\StringvsStringBuilder\StringvsStringBuilder\bin\Debug\netcoreapp3.1\StringvsStringBuilder.runtimeconfig.dev.json
+C:\Users\kerim\source\repos\StringvsStringBuilder\StringvsStringBuilder\bin\Debug\netcoreapp3.1\StringvsStringBuilder.dll
+C:\Users\kerim\source\repos\StringvsStringBuilder\StringvsStringBuilder\bin\Debug\netcoreapp3.1\StringvsStringBuilder.pdb
+C:\Users\kerim\source\repos\StringvsStringBuilder\StringvsStringBuilder\obj\Debug\netcoreapp3.1\StringvsStringBuilder.csprojAssemblyReference.cache
+C:\Users\kerim\source\repos\StringvsStringBuilder\StringvsStringBuilder\obj\Debug\netcoreapp3.1\StringvsStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\kerim\source\repos\StringvsStringBuilder\StringvsStringBuilder\obj\Debug\netcoreapp3.1\StringvsStringBuilder.AssemblyInfoInputs.cache
+C:\Users\kerim\source\repos\StringvsStringBuilder\StringvsStringBuilder\obj\Debug\netcoreapp3.1\StringvsStringBuilder.AssemblyInfo.cs
+C:\Users\kerim\source\repos\StringvsStringBuilder\StringvsStringBuilder\obj\Debug\netcoreapp3.1\StringvsStringBuilder.dll
+C:\Users\kerim\source\repos\StringvsStringBuilder\StringvsStringBuilder\obj\Debug\netcoreapp3.1\StringvsStringBuilder.pdb
+C:\Users\kerim\source\repos\StringvsStringBuilder\StringvsStringBuilder\obj\Debug\netcoreapp3.1\StringvsStringBuilder.genruntimeconfig.cache
